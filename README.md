@@ -61,8 +61,6 @@ src/
  ├── components/        # Reusable UI components
  ├── hooks/             # Custom React hooks (useWeather, useGeolocation, etc.)
  ├── pages/             # Main pages (Home, Favorites, etc.)
- ├── types/             # TypeScript interfaces and types
- ├── utils/             # Helper functions and formatters
  └── main.tsx           # Application entry point
 ```
 
